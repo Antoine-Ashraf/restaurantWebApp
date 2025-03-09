@@ -17,8 +17,4 @@
 - Time-sensitive operational status updates  
 - Image integration with dynamic `src` attributes  
 - Clean data-UI separation for easy content updates  
-- Accessible alt tags for images  
-
-**Tech Stack**: React 18, JSX, CSS3, JavaScript ES6+  
-
-This project demonstrates core React patterns including component-driven development, props flow, and declarative UI programming. 
+- Accessible alt tags for images
